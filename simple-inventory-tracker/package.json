@@ -1,0 +1,16 @@
+{
+  "name": "simple-inventory-tracker",
+  "version": "1.0.0",
+  "description": "A lightweight inventory management utility for tracking items, quantities, and stock levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["inventory", "stock", "tracking", "management", "simple"],
+  "author": "menonaru",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/menonaru/simple-inventory-tracker.git"
+  }
+}
