@@ -1,0 +1,23 @@
+{
+  "inventory-tracker-data": {
+    "items": [
+      {
+        "id": "FILE001",
+        "name": "File Item",
+        "quantity": 15,
+        "minStock": 5,
+        "lastUpdated": "2025-10-21T11:02:47.813Z"
+      }
+    ],
+    "exportDate": "2025-10-21T11:02:47.813Z",
+    "totalItems": 1
+  }
+} "quantity": 8,
+        "minStock": 2,
+        "lastUpdated": "2025-10-21T11:02:47.814Z"
+      }
+    ],
+    "exportDate": "2025-10-21T11:02:47.814Z",
+    "totalItems": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "inventory-tracker-data": {
+    "items": [
+      {
+        "id": "FILE001",
+        "name": "Keyboard",
+        "quantity": 15,
+        "minStock": 3,
+        "lastUpdated": "2025-10-21T11:07:50.309Z"
+      }
+    ],
+    "exportDate": "2025-10-21T11:07:50.310Z",
+    "totalItems": 1
+  }
+}

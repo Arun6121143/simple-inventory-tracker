@@ -1,0 +1,15 @@
+{
+  "inventory-tracker-data": {
+    "items": [
+      {
+        "id": "SWITCH001",
+        "name": "Switch Item",
+        "quantity": 12,
+        "minStock": 3,
+        "lastUpdated": "2025-10-21T11:02:47.820Z"
+      }
+    ],
+    "exportDate": "2025-10-21T11:02:47.821Z",
+    "totalItems": 1
+  }
+}
